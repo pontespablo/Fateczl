@@ -265,6 +265,9 @@ input[type=reset]{
     h1{
         font-size: 1.3em;
     }
+    h2{
+        font-size: 1.5em;
+    }
     body{
         font-size: 0.8em;
         }
