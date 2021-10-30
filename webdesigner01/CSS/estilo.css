@@ -428,25 +428,4 @@ input[type=reset]{
         padding-left: 0.6%;
     }
 }
-/* media queries fonte titulos videos e audio do conteudo */
-@media screen and (max-width:630px) {
-    body{
-    font-size: 0.8em;
-    }
-    #video{
-    width: 70%;
-    height: auto;
-    }
-    #audio{
-        width: 300px;
-        height: 50px;
-        display: inline-block;
-    }
-}
-@media screen and (max-width:420px) {
-    #audio{
-        width: 250px;
-        height: 40px;
-    }
-}
 /*Fim dos estilos de responsividade do site */
