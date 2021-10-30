@@ -292,6 +292,9 @@ input[type=reset]{
         padding-bottom: 2%;
         
     }
+    body{
+        font-size: 0.8em;
+        }
 }
 /* media querie do menu responsivo */
 
@@ -430,22 +433,9 @@ input[type=reset]{
 }
 /* media queries fonte titulos videos e audio do conteudo */
 @media screen and (max-width:630px) {
-    body{
-    font-size: 0.8em;
-    }
     #video{
     width: 70%;
     height: auto;
-    }
-    #audio{
-        width: 300px;
-        height: 50px;
-    }
-}
-@media screen and (max-width:420px) {
-    #audio{
-        width: 250px;
-        height: 40px;
     }
 }
 /*Fim dos estilos de responsividade do site */
