@@ -434,4 +434,10 @@ input[type=reset]{
     height: auto;
     }
 }
+@media screen and (max-width:420px) {
+    #video{
+    width: 100%;
+    height: auto;
+    }
+}
 /*Fim dos estilos de responsividade do site */
