@@ -188,20 +188,20 @@ section{
 
 p {
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-    
+    font-size: 1em;  
 }
 
-h1 {
-
+h1 { 
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 2em;
     color: #6d0b10;
     text-align: center;
     padding-top: 5%;
 
 }
 h2 {
-
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 1.5em;
     color: #395360;
 }
 
@@ -263,12 +263,12 @@ input[type=reset]{
 /* media querie para textos e títulos das páginas responsivo */
 @media screen and (max-width:420px){
     h1{
-        font-size: 1.3em;
+        font-size: 1em;
     }
     h2{
-        font-size: 1.5em;
+        font-size: 1em;
     }
-    body{
+    p{
         font-size: 0.9em;
         }
 }
