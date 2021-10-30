@@ -263,7 +263,7 @@ input[type=reset]{
 /* media querie para textos e títulos das páginas responsivo */
 @media screen and (max-width:420px){
     h1{
-        font-size: 1.2em;
+        font-size: 1.3em;
     }
     body{
         font-size: 0.8em;
