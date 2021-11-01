@@ -492,9 +492,13 @@ input[type=reset]{
     #assunto{
         width: 90%;
     }
-    
+    #data{
+        width: auto;
+        height: 23px;
+    }
     input[type=submit]{
         width: 35%;  
+        margin-left: 12%;
     }
     input[type=reset]{
         width: 35%;
