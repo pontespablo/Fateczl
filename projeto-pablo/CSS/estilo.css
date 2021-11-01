@@ -494,11 +494,11 @@ input[type=reset]{
     }
     #data{
         width: auto;
-        height: 23px;
+        height: 28px;
     }
     input[type=submit]{
         width: 35%;  
-        margin-left: 12%;
+        margin-left: 13%;
     }
     input[type=reset]{
         width: 35%;
