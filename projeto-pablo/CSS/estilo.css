@@ -490,15 +490,15 @@ input[type=reset]{
         width: 90%;
     }
     #assunto{
-        width: 95%;
+        width: 98%;
     }
     #data{
         width: auto;
-        height: 28px;
+        height: 32px;
     }
     input[type=submit]{
         width: 35%;  
-        margin-left: 13%;
+        margin-left: 13.5%;
     }
     input[type=reset]{
         width: 35%;
